@@ -1,4 +1,4 @@
-<img align="right" height="580em"  src="https://user-images.githubusercontent.com/103538940/163832625-c7703b26-e5b5-4f24-98e1-4849fd609071.png"/>
+<img align="right" src="https://user-images.githubusercontent.com/103538940/163849090-a2e9fe62-1408-48a9-829e-3f3969daa9f6.jpg"/>
 
 <img justify-content="initial" widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/163848630-e24c4fa4-a927-4e75-a004-020f9bd9a508.png">
 
@@ -13,3 +13,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt">
 
 
+![ClaudianeCS card 2](https://user-images.githubusercontent.com/103538940/163849090-a2e9fe62-1408-48a9-829e-3f3969daa9f6.jpg)
