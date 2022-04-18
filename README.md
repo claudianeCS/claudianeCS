@@ -7,7 +7,7 @@
 
 
 
-
+<p>                                                                                                                                                        </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt"/>
 
