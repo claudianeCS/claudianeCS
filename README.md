@@ -3,9 +3,9 @@
 
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/103538940/163840353-bfcd318f-8363-4098-ad66-219aeba8f7f1.png"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt"/>
+<a href="https://www.linkedin.com/in/claudiane-costa-91a057219/"><img align="left" src="https://user-images.githubusercontent.com/103538940/163840353-bfcd318f-8363-4098-ad66-219aeba8f7f1.png"></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt">
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt">
 
