@@ -4,6 +4,7 @@
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
 
 <a href="https://www.linkedin.com/in/claudiane-costa-91a057219/"><img justify-content="initial" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/163840353-bfcd318f-8363-4098-ad66-219aeba8f7f1.png"></a>
+<a href="mailto:claudianecosta241@gmail.com"><img justify-content="space-between" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/163840353-bfcd318f-8363-4098-ad66-219aeba8f7f1.png"></a>
 
 
 
