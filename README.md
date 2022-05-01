@@ -1,5 +1,5 @@
 
-<img justify-content="initial" widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/166155480-5ff2b6c0-1686-4b1c-9feb-c7e2b6319117.png">
+<img justify-content="initial" widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/166155537-c3ada6bb-a8c3-4163-b295-5e3bbf26ef4d.png">
 <a><img align="center" widht="359px" height="720px" src="https://user-images.githubusercontent.com/103538940/163851178-c53fc095-6d17-4cef-9ccc-c299b37538de.png"/><a/>
 
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
@@ -10,6 +10,7 @@
 <img justify-content="initial" src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt">
+
 
 
 
