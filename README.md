@@ -1,6 +1,6 @@
 
 <img  widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/166155537-c3ada6bb-a8c3-4163-b295-5e3bbf26ef4d.png">
-<img align="right"  widht="359px" height="720px" src="https://user-images.githubusercontent.com/103538940/172056419-9cb1cc9d-ce1d-4b3d-a75b-5da2772ea7cb.jpg">
+<img align="right"  src="https://user-images.githubusercontent.com/103538940/172056419-9cb1cc9d-ce1d-4b3d-a75b-5da2772ea7cb.jpg">
 
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
 
