@@ -8,7 +8,8 @@
 <a href="mailto:claudianecosta241@gmail.com"><img justify-content="space-between" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/163845360-0b4fd420-95c0-4f0a-9aac-9b3796e51049.png"></a>
 
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt">
-<br><br>
+<br>
+<br>
 <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt">
 
 
