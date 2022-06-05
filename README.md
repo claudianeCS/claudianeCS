@@ -1,5 +1,5 @@
 
-<img  widht="469px" height="150px" src="[https://user-images.githubusercontent.com/103538940/166155537-c3ada6bb-a8c3-4163-b295-5e3bbf26ef4d.png](https://user-images.githubusercontent.com/103538940/172057564-7060be3b-3a40-42e1-a7ba-a20963212c2b.png)">
+<img  widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png">
 <img align="right"  src="https://user-images.githubusercontent.com/103538940/172056419-9cb1cc9d-ce1d-4b3d-a75b-5da2772ea7cb.jpg">
 
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
@@ -17,3 +17,4 @@
 
 
 
+![imagem_2022-06-05_121622113-removebg-preview NOVO](https://user-images.githubusercontent.com/103538940/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png)
