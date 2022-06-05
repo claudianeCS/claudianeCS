@@ -17,4 +17,4 @@
 
 
 
-![imagem_2022-06-05_121622113-removebg-preview NOVO](https://user-images.githubusercontent.com/103538940/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png)
+
