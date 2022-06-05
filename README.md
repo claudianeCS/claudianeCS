@@ -1,6 +1,6 @@
 
-<img justify-content="initial" widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/166155537-c3ada6bb-a8c3-4163-b295-5e3bbf26ef4d.png">
-<img  justify-content="space-between" widht="359px" height="720px" src="https://user-images.githubusercontent.com/103538940/163851178-c53fc095-6d17-4cef-9ccc-c299b37538de.png">
+<img  widht="469px" height="150px" src="https://user-images.githubusercontent.com/103538940/166155537-c3ada6bb-a8c3-4163-b295-5e3bbf26ef4d.png">
+<img align="right"  widht="359px" height="720px" src="https://user-images.githubusercontent.com/103538940/163851178-c53fc095-6d17-4cef-9ccc-c299b37538de.png">
 
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
 
