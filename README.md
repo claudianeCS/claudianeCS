@@ -4,15 +4,14 @@
 
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
 
-<a href="https://www.linkedin.com/in/claudiane-costa-91a057219/"><img justify-content="space-between" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/172056868-1465a0b8-bce5-4ce0-aebe-9de15120c6e5.png"></a>
-<a href="mailto:claudianecosta241@gmail.com"><img justify-content="space-between" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/172056885-e0f467c4-7aba-4c57-840d-7feb68f18968.png"></a>
+<a href="https://www.linkedin.com/in/claudiane-costa-91a057219/"><img justify-content="space-between" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/173412404-a8186cdb-f589-4564-8049-ed947708d813.png"></a>
+<a href="mailto:claudianecosta241@gmail.com"><img justify-content="space-between" widht="32px" height="32px" src="https://user-images.githubusercontent.com/103538940/173412359-084216f9-14dd-40b1-aa1b-787c80da90e7.png"></a>
 
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt">
 <br>
 <p>                                                                                                                                                       </p>
 <br>
 <img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&cache_seconds=86400&theme=cobalt">
-
 
 
 
