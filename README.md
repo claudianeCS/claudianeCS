@@ -5,7 +5,7 @@
 <p align="left">Tenho 21 anos moro em Salvador- BA 🗺 , estudo programação desde 2020.</p>
 
 <a href="https://www.linkedin.com/in/claudiane-costa-91a057219/"><img justify-content="space-between" widht="24px" height="24px" src="https://user-images.githubusercontent.com/103538940/173412404-a8186cdb-f589-4564-8049-ed947708d813.png"></a>
-<br><br><br><br><br><br>
+<br><br>
 <a href="mailto:claudianecosta241@gmail.com"><img justify-content="space-between" widht="24px" height="24px" src="https://user-images.githubusercontent.com/103538940/173412359-084216f9-14dd-40b1-aa1b-787c80da90e7.png"></a>
 
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt">
