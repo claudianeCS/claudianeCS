@@ -1,7 +1,7 @@
 
     <img  class="topo" width="75%" style="margin-bottom: 10%;" src="/images/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png" alt="">
         <div style="display: flex; justify-content:space-evenly">
-           <div class="sub-texto">
+           <div>
                 <p width="400px">
                     Tenho 22 anos, moro no Rio Grande do Norte - Brasil, estudante de programação e graduanda em Analise e Desenvolvimmento 
                     de Sistemas desde 2020. Welcome to my github...
