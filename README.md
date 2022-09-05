@@ -1,5 +1,5 @@
 <img width="50%" style="margin-bottom: 10%;" src="https://user-images.githubusercontent.com/103538940/188474804-bb9d2cd7-7580-4a5c-a6bd-93ceb556efc0.png" alt="">
-<div style="display:inline_block">
+<div>
 <div width="200" >
 <p>Tenho 22 anos, moro no Rio Grande do Norte - Brasil, estudante de programação e graduanda em Analise e Desenvolvimmento de Sistemas desde 2020. Welcome to my github...</p>
 <div style="display: inline_block">
@@ -9,7 +9,7 @@
 <img width="30px" src="https://user-images.githubusercontent.com/103538940/188488481-d4c5c180-d2de-44b5-b226-88062cb8ec7c.png" alt="">
 </div>
 </div>
-<img width="250px" src="https://user-images.githubusercontent.com/103538940/188489124-c9995e28-952d-4a49-b529-eb4b944fa9c7.png" alt="">
+<img align=right width="250px" src="https://user-images.githubusercontent.com/103538940/188489124-c9995e28-952d-4a49-b529-eb4b944fa9c7.png" alt="">
 </div>
        
 
