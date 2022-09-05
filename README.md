@@ -11,7 +11,7 @@
 <img align=right width="250px" src="https://user-images.githubusercontent.com/103538940/188489124-c9995e28-952d-4a49-b529-eb4b944fa9c7.png" alt="">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&theme=cobalt" alt="">
+<img  style="margin-top:10%;" src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&theme=cobalt" alt="">
 </div>
        
 
