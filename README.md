@@ -8,8 +8,9 @@
 <img width="30px"  src="https://user-images.githubusercontent.com/103538940/188488430-af79842c-b701-468a-b4a5-bb358a73e06f.png" alt="">
 <img width="30px" src="https://user-images.githubusercontent.com/103538940/188488481-d4c5c180-d2de-44b5-b226-88062cb8ec7c.png" alt="">
 </div>
-</div>
 <img align=right width="250px" src="https://user-images.githubusercontent.com/103538940/188489124-c9995e28-952d-4a49-b529-eb4b944fa9c7.png" alt="">
+</div>
+
 </div>
        
 
