@@ -1,8 +1,8 @@
 
  
-        <div >
-            <img class="topo" src="/images/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png" alt="">
-        </div>
+        
+         <img class="topo" src="/images/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png" alt="">
+ 
         <div class="texto">
            <div class="sub-texto">
                 <p>
