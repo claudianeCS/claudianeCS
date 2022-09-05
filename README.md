@@ -1,5 +1,5 @@
 
-  <main>
+ 
         <div >
             <img class="topo" src="/images/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png" alt="">
         </div>
@@ -18,12 +18,8 @@
                 </ul>
              </div>
            </div>
-          
-            
-            <img class="image-banner" src="/images/ClaudianeCS.png" alt="">
-          
-
-        </div>
-    </main>
+           <img class="image-banner" src="/images/ClaudianeCS.png" alt="">
+         </div>
+ 
 
 
