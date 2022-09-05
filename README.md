@@ -14,7 +14,7 @@
 <br><br><br><br>
 <img   src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&theme=cobalt" alt="">
 <br><br>
-<img   src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats" alt="">
+<img   src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&theme=cobalt" alt="">
 </div>
        
 
