@@ -1,60 +1,23 @@
 
-  <style>
-        main{
-            width: 894px;
-            height: 776px;
-        }
-        .texto{
-            display: flex;
-            justify-content: space-evenly;
-        }
-        .image-banner{
-            width: 250px;
-        }
-        
-        p{
-            width: 400px;
-        }
-        ul{
-            display: flex;
-           margin-top: 10%;
-           padding: 0;
-        }
-        li{
-            list-style: none;
-            margin-left: 5%;
-        }
-        .icons{
-            width: 30px;
-        }
-        .topo{
-            width: 75%;
-            margin-bottom: 10%;
-        }
-
-
-    </style>
-        
-        <img class="topo" src="https://user-images.githubusercontent.com/103538940/188469776-0e4f899e-3c19-4a89-bd48-366757086f01.png" alt="">
- 
-        <div class="texto">
+    <img  class="topo" width="75%" style="margin-bottom: 10%;" src="/images/172057598-aa6ec6ef-6560-4f66-8021-ccf9743af834.png" alt="">
+        <div style="display: flex; justify-content:space-evenly">
            <div class="sub-texto">
-                <p>
+                <p width="400px">
                     Tenho 22 anos, moro no Rio Grande do Norte - Brasil, estudante de programação e graduanda em Analise e Desenvolvimmento 
-                de Sistemas desde 2020. Welcome to my github...
+                    de Sistemas desde 2020. Welcome to my github...
                  </p>
-             <div class="lenguages">
-                <ul>
-                    <li><img class="icons" src="/images/css-3.png" alt=""></li>
-                    <li><img class="icons" src="/images/html.png" alt=""></li>
-                    <li><img class="icons" src="/images/java.png" alt=""></li>
-                    <li><img class="icons" src="/images/armazenamento-de-banco-de-dados.png" alt=""></li>
+           
+                <ul style="margin-top:10%; display: flex;padding: 0;">
+                    <li style="list-style: none ; margin-left: 5%;"><img width="30px" src="/images/css-3.png" alt=""></li>
+                    <li style="list-style: none ; margin-left: 5%;"><img width="30px" src="/images/html.png" alt=""></li>
+                    <li style="list-style: none ; margin-left: 5%;" ><img width="30px"  src="/images/java.png" alt=""></li>
+                    <li style="list-style: none ; margin-left: 5%;"><img width="30px" src="/images/armazenamento-de-banco-de-dados.png" alt=""></li>
                 </ul>
-             </div>
+        
            </div>
-           <img class="image-banner" src="/images/ClaudianeCS.png" alt="">
-         </div>
- 
+          
+            
+            <img class="image-banner" width="250px" src="/images/ClaudianeCS.png" alt="">
+          
 
-
-
+        </div>
