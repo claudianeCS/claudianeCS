@@ -13,11 +13,7 @@
                     <li style="list-style: none ; margin-left: 5%;" ><img width="30px"  src="/images/java.png" alt=""></li>
                     <li style="list-style: none ; margin-left: 5%;"><img width="30px" src="/images/armazenamento-de-banco-de-dados.png" alt=""></li>
                 </ul>
-        
-           </div>
-          
-            
-            <img class="image-banner" width="250px" src="/images/ClaudianeCS.png" alt="">
-          
+            </div>   
+           <img class="image-banner" width="250px" src="https://user-images.githubusercontent.com/103538940/188473393-7c299f8c-ec36-4bd8-9f58-972bd518806c.png" alt="">
+          </div>
 
-        </div>
