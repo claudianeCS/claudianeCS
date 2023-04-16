@@ -14,7 +14,7 @@
 <br><br>
 <div style="display: inline_block">
 <img width="32px" src="https://user-images.githubusercontent.com/103538940/188491636-8bf386b4-a7af-458e-b3d9-fe89a644a631.svg" alt="">---
-<img  src="https://user-images.githubusercontent.com/103538940/188491642-8bf613be-129f-40ef-8a1f-03387d2ab54b.svg" alt="">
+
 </div>
 <br><br>
 <img   src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&theme=cobalt" alt="">
