@@ -4,7 +4,7 @@
 <p><b>Tenho 22 anos, moro no Rio Grande do Norte - Brasil, estudante de programação e Analise e Desenvolvimmento de Sistemas desde 2020. Welcome to my github...</b></p>
 <br>
 <div style="display: inline_block"><br>
-       <img align="center" width="32px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+       <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 </div>
 </div>
 <br><br>
