@@ -11,10 +11,6 @@
 </div>
 </div>
 <br><br>
-<div style="display: inline_block">
-<img  src="https://user-images.githubusercontent.com/103538940/188491642-8bf613be-129f-40ef-8a1f-03387d2ab54b.svg" alt="">
-</div>
-<br><br>
 <img   src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&theme=vision-friendly-dark" alt="" style="margin-left: 5px"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&theme=vision-friendly-dark" alt="">
 
 </div>
