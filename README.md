@@ -10,9 +10,6 @@
        <a href="https://spring.io"><img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt=""></a>
 </div>
 </div>
-<br><br>
-<img   src="https://github-readme-stats.vercel.app/api?username=claudianeCS&show_icons=true&theme=vision-friendly-dark" alt="" style="margin-left: 5px"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=claudianeCS&repo=github-readme-stats&theme=vision-friendly-dark" alt="">
-
 </div>
        
 
