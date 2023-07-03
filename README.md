@@ -1,7 +1,7 @@
 <img style="margin-bottom: 10%;" src="https://github.com/claudianeCS/claudianeCS/assets/103538940/af0744e4-ad1e-4152-adf1-6e094e1f6541" alt="">
 <div>
 <div width="200" >
-<p><b>Tenho 22 anos, moro no Rio Grande do Norte - Brasil,desenvolvedora e estudante de programação e Analise e Desenvolvimmento de Sistemas. Welcome to my github...</b></p>
+<p><b>Welcome to my github...</b></p>
 <br>
 <div style="display: inline_block"><br>
        <a href="https://www.mysql.com"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt=""></a>
